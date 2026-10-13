@@ -12,4 +12,4 @@ This course introduced me to the fundamentals of project management, including p
 
 ## 🏆 Certificate
 
-![Foundations of Project Management Certificate](certificate.png)
+![Foundations of Project Management Certificate](projectmanagementcourse.jpg)
